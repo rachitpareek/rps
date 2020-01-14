@@ -1,0 +1,13 @@
+.symbol {
+    color:#333;
+    font-size:200px;
+  }
+  #result{
+    text-align:center;
+  }
+  #computer{
+    text-align:center;
+  }
+  #player{
+    text-align:center;
+  }
